@@ -12,4 +12,5 @@ Debug Size: 435 KB
 
 Strategy Remove LayoutConstraint Remove AppCompat App Gradle buildTypes { release { minifyEnabled true shrinkResources true proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro' } }
 
-Build Gradle
+
+After remove no used mipmap icons and adding the mipmap-nodpi the Release Size has changed to 61KB
