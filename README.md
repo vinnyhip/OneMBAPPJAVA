@@ -17,8 +17,8 @@ Language: Java
 
 
 ## Strategy: 
-Remove LayoutConstraint \
-Remove AppCompat \
+Remove all implementation dependencies \
+
 App Gradle:
 ```groovy
 buildTypes { 
