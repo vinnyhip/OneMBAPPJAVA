@@ -17,7 +17,7 @@ Language: Java
 
 
 ## Strategy: 
-Remove all implementation dependencies \
+Remove all implementation dependencies
 
 App Gradle:
 ```groovy
