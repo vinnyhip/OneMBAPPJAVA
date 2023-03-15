@@ -17,7 +17,9 @@ Language: Java
 
 
 ## Strategy: 
-Remove all implementation dependencies
+
+Remove all implementation dependencies \
+Remove no used mipmap icons and adding the mipmap-nodpi instead xxhdpi and lower.
 
 App Gradle:
 ```groovy
@@ -29,5 +31,3 @@ buildTypes {
   } 
 }
 ```
-
-After remove no used mipmap icons and adding the mipmap-nodpi the release size has changed to 61KB
