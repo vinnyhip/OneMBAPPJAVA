@@ -5,6 +5,7 @@ _Initial Size: 1411KB_
 ## Android min size app
 
 Language: Java \
+
 Release Size: 21,0 KB \
 ![image](https://user-images.githubusercontent.com/975220/225172206-e157b712-0672-4381-901d-dba57e959580.png)
 
