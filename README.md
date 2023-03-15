@@ -6,13 +6,13 @@ _Initial Size: 1411KB_
 
 Language: Java
 
-### Release Size: 21,0 KB \
+### Release Size: 21,0 KB
 ![image](https://user-images.githubusercontent.com/975220/225172206-e157b712-0672-4381-901d-dba57e959580.png)
 
-### Installed Size: 102 KB\
+### Installed Size: 102 KB
 ![image](https://user-images.githubusercontent.com/975220/225172822-529ac32e-130a-454f-b78c-25e264546161.png)
 
-### Debug Size: 37,4 KB \
+### Debug Size: 37,4 KB
 ![image](https://user-images.githubusercontent.com/975220/225172385-b5f260db-dfb3-415a-80c1-bd49b9c979ed.png)
 
 
